@@ -1,0 +1,30 @@
+[
+    {
+    "item_id": "186942",
+    "locale": "es_MX",
+    "image_url": "https://doto.vteximg.com.br/arquivos/ids/186942/xiaomi-1t-pro-blanco-dotomexico-vistas-ambas.jpg?v=637788192972100000",        
+    "name": "Xiaomi 11T Pro 256GB 8GB",        
+    "url": "/xiaomi-11-lite-5g-ne-128gb-6gb/p",        
+    "price":  "$6,819.00"        
+   
+    },{
+
+        "item_id": "2159967",
+        "locale": "es_MX",
+        "image_url": "https://doto.vteximg.com.br/arquivos/ids/175455/xiaomi-pocophone-f3-negro-doto-mexico-vista-frontal.jpg?v=637666495301770000",        
+        "name": "Poco F3 128GB 6GB",        
+        "url": "/poco-f3-256gb-8gb-ram/p",        
+        "price":  "$6,898.00"   
+    
+    },
+    {
+
+        "item_id": "2159968",
+        "locale": "es_MX",
+        "image_url": "https://doto.vteximg.com.br/arquivos/ids/166616/samsung-galaxy-a32-azul-dotomexico-ambas-vistas.jpg?v=637720066503370000",        
+        "name": "Samsung Galaxy A32 128GB 4GB",        
+        "url": "galaxy-a32-128gb-4gb-samsung/p",        
+        "price":  "$5,849.00"   
+    }
+]
+
